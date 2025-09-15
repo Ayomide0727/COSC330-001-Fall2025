@@ -1,2 +1,2 @@
-# week3
-Week 3 C programming assignments.
+# COSC330-001-Fall2025
+programming assignments.
